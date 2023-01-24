@@ -1,0 +1,19 @@
+.banner-img-1{
+    background-image: url("../images/banner.png");
+height: 100vh;
+}
+.img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.navbar-brand{
+    margin-left: 25px;
+    }
+    .thumbnail{
+        margin-left: 150px;
+        
+    }
+    .consectetur{
+        display: flex;
+    }
